@@ -5,17 +5,6 @@
           "domain": [
           ],
           "domain_suffix": [
-            ".gemini.google.com",
-            ".ai.google.dev",
-            ".bard.google.com",
-            ".deepmind.com",
-            ".deepmind.google",
-            ".generativeai.google",
-            ".proactivebackend-pa.googleapis.com",
-            ".alkalimakersuite-pa.clients6.google.com",
-            ".aistudio.google.com",
-            ".makersuite.google.com",
-            ".generativelanguage.googleapis.com",
             ".cdn.usefathom.com",
             ".anthropic.com",
             ".claude.ai",
